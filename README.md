@@ -1,4 +1,4 @@
 # exercise_repo
-Made some changes here niggas 
+This project
 Git exercise
-Making conflictt
+Edited again
